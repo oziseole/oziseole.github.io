@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oziseole.github.io/EDm/sitemap_index.txt
+Sitemap: https://oziseole.github.io/Xbo/sitemap_index.txt
+Sitemap: https://oziseole.github.io/cmd/sitemap_index.txt
+Sitemap: https://oziseole.github.io/dEa/sitemap_index.txt
